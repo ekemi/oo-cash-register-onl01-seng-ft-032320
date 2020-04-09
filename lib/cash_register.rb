@@ -35,7 +35,7 @@ def apply_discount
   end
 end
   def items
-
+  @items
 
   end
 end
